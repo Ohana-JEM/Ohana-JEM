@@ -34,8 +34,8 @@ I am currently on a journey to becoming a **Data Scientist**, focusing on **Pyth
 ## Let's Connect!  
 
   
-**LinkedIn**: [linkedin.com/in/ohana](https://www.linkedin.com/in/ohana-יְעֲשִׂיאֵל-edwards-mbewe-✡︎-b17bb1295)  
-**GitHub**: [github.com/YourGitHubUsername](https://github.com/Ohana-JEM)  
+**LinkedIn**: [[linkedin.com/in/ohana](https://www.linkedin.com/in/ohana-יְעֲשִׂיאֵל-edwards-mbewe-✡︎-b17bb1295)]  
+**GitHub**: [[github.com/YourGitHubUsername](https://github.com/Ohana-JEM)]  
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=F7D530&size=24&center=true&vCenter=true&width=500&lines=Always+open+to+collaboration!;Feel+free+to+reach+out.">
